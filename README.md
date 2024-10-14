@@ -1,3 +1,23 @@
+
+DotDev note:
+-----------
+
+React Native + Material MUI / Emotion themeProvider dark/light
+
+créer avec npm create-react-app@latest
+
+donc sans Vite, mais avec Webpack 5 et Babel
+
+https://www.youtube.com/watch?v=fzxEECHnsvU&ab_channel=LamaDev
+
+voir aussi /Screenshot.png
+
+
+pour lancer le serveur dev : npm start
+
+
+====================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
