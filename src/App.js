@@ -21,7 +21,7 @@ function App() {
         <ThemeProvider theme={theme}>
             <Box bgcolor="background.default" color="text.primary">
                 <Navbar/>
-                <Stack direction={"row"} spacing={2} justifyContent="space-between" sx={{px:48}}>
+                <Stack direction={"row"} spacing={2} justifyContent="space-between" sx={{px:4}}>
                     <Sidebar setMode={setMode} mode={mode} />
                     <Feed/>
                     <Rightbar/>        
